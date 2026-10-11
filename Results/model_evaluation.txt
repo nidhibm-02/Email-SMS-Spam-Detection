@@ -1,0 +1,22 @@
+EMAIL SPAM DETECTION - MODEL EVALUATION
+Algorithm: Multinomial Naive Bayes
+Training messages: 4135
+Testing messages: 1034
+Accuracy: 0.9720
+Precision: 1.0000
+Recall: 0.7786
+F1-score: 0.8755
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         Ham       0.97      1.00      0.98       903
+        Spam       1.00      0.78      0.88       131
+
+    accuracy                           0.97      1034
+   macro avg       0.98      0.89      0.93      1034
+weighted avg       0.97      0.97      0.97      1034
+
+Confusion Matrix:
+[[903   0]
+ [ 29 102]]

@@ -1,0 +1,4 @@
+TF-IDF FEATURE INFORMATION
+Messages: 5169
+Features: 5000
+Matrix shape: (5169, 5000)
