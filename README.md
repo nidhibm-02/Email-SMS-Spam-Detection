@@ -8,7 +8,7 @@ The project also includes model comparison, performance evaluation, an interacti
 
 ## Application Preview
 
-![SMS Spam Detection Web Application](screenshots/spam-detection-app.png)
+![SMS Spam Detection Web Application](Screenshots/spam-detection-app.png)
 
 ## Features
 
