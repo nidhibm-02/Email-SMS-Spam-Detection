@@ -6,6 +6,10 @@ This project classifies SMS text messages as **Spam** or **Ham (Not Spam)** usin
 
 The project also includes model comparison, performance evaluation, an interactive command-line predictor, and a web application developed using Streamlit.
 
+## Application Preview
+
+![SMS Spam Detection Web Application](screenshots/spam-detection-app.png)
+
 ## Features
 
 - Dataset exploration and duplicate removal
